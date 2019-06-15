@@ -1,0 +1,27 @@
+{
+  "name": "douban",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server/index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/happyyi/douban.git"
+  },
+  "keywords": [
+    "douban",
+    "movie"
+  ],
+  "author": "yi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/happyyi/douban/issues"
+  },
+  "homepage": "https://github.com/happyyi/douban#readme",
+  "dependencies": {
+    "koa": "^2.7.0"
+  }
+}
